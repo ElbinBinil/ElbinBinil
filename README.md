@@ -12,7 +12,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,html,css,bootstrap,arduino,figma,mysql,github,vscode,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,html,css,bootstrap,arduino,figma,mysql,github,vscode,react,go,java,flutter,tailwind,aws,gcp,postgresql,prisma,firebase,git,docker,mongodb,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
